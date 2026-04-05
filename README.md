@@ -14,9 +14,6 @@
 
 <br>
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    TERMINAL SESSION BODY                      -->
-<!-- ████████████████████████████████████████████████████████████ -->
 
 ```bash
 visitor@dev-os:~$ neofetch --profile /usr/bin/unstableblob
@@ -78,12 +75,10 @@ drwxr-xr-x  fundora-internship/
 │   └── Role   : Frontend Developer & Backend Integration
 │   └── Impact : Built responsive UIs and intuitive user flows, integrated REST APIs end-to-end
 │   └── Stack  : React · Node.js · Express · MongoDB
+```
 
 <br>
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  GITHUB STATS — FETCH OUTPUT                  -->
-<!-- ████████████████████████████████████████████████████████████ -->
 
 ```bash
 visitor@dev-os:~$ fetch --stats --live
@@ -96,15 +91,7 @@ Rendering dashboard...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UnstableBlob&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=A9B7C6&icon_color=39FF14&ring_color=39FF14&card_width=495" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnstableBlob&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=A9B7C6&icon_color=39FF14&card_width=495" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=UnstableBlob&theme=terminal&hide_border=true&background=0D1117&ring=39FF14&fire=FFB000&currStreakLabel=39FF14&sideLabels=A9B7C6&dates=A9B7C6&stroke=39FF14" width="495"/>
+<img src="https://streak-stats.demolab.com?user=UnstableBlob&theme=terminal&hide_border=true&background=0D1117&ring=39FF14&fire=FFB000&currStreakLabel=39FF14&sideLabels=A9B7C6&dates=A9B7C6&stroke=39FF14&sideNums=39FF14&currStreakNum=39FF14&count_private=true" width="495"/>
 
 </div>
 
@@ -182,7 +169,7 @@ visitor@dev-os:~$ █
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnstableBlob&bg_color=0D1117&color=39FF14&line=39FF14&point=FFB000&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnstableBlob&bg_color=0D1117&color=39FF14&line=39FF14&point=FFB000&area=true&hide_border=true&count_private=true" width="100%"/>
 
 </div>
 
