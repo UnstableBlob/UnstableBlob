@@ -23,8 +23,8 @@ visitor@dev-os:~$ neofetch --profile /usr/bin/unstableblob
 
 <table border="0" align="center">
   <tr>
-    <td align="center" width="280" style="background-color: #000000ff;">
-      <img src="./assets/yinyang.gif"  width="260" />
+    <td align="center" width="280">
+      <img src="./assets/yinyangbg.gif"  width="260" />
     </td>
     <td align="left">
       <pre>
